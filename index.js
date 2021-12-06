@@ -90,6 +90,3 @@ app.delete('/users',(req,res) =>{
 })
 
 
-app.listen(p, ()=>{
-    console.log("Server Running");
-})
